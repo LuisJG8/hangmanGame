@@ -11,7 +11,6 @@ print(logo)
 
 for letter in range(length_of_word):
     display += '_'
-print(f'the solution is {chosen_word}.')
 print(display)
 
 while flag:
